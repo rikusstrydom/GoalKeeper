@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalKeeper", "GoalKeeper\GoalKeeper.csproj", "{BCD5A56A-9351-475E-960C-19C4CE914949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD5A56A-9351-475E-960C-19C4CE914949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD5A56A-9351-475E-960C-19C4CE914949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD5A56A-9351-475E-960C-19C4CE914949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD5A56A-9351-475E-960C-19C4CE914949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {511361CA-ECEA-4399-A7D8-60BA1663F566}
+	EndGlobalSection
+EndGlobal
