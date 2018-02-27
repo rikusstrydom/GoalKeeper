@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Programming and Design\\Programming\\GitHub\\GoalKeeper\\GoalKeeper.Data\\GoalKeeper.Data.csproj",
+      "projectUniqueName": "D:\\Programming\\GitHub\\GoalKeeper\\GoalKeeper.Data\\GoalKeeper.Data.csproj",
       "projectName": "GoalKeeper.Data",
-      "projectPath": "D:\\Programming and Design\\Programming\\GitHub\\GoalKeeper\\GoalKeeper.Data\\GoalKeeper.Data.csproj",
+      "projectPath": "D:\\Programming\\GitHub\\GoalKeeper\\GoalKeeper.Data\\GoalKeeper.Data.csproj",
       "packagesPath": "C:\\Users\\AdventureGheek\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming and Design\\Programming\\GitHub\\GoalKeeper\\GoalKeeper.Data\\obj\\",
+      "outputPath": "D:\\Programming\\GitHub\\GoalKeeper\\GoalKeeper.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
