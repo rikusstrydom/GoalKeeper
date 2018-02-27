@@ -184,7 +184,7 @@ ClientBin/
 orleans.codegen.cs
 
 /node_modules
-
+.vs/
 /yarn.lock
 
 # RIA/Silverlight projects

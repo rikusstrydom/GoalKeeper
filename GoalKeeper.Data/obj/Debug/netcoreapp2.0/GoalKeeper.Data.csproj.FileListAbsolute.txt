@@ -1,0 +1,9 @@
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Data\bin\Debug\netcoreapp2.0\GoalKeeper.Data.deps.json
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Data\bin\Debug\netcoreapp2.0\GoalKeeper.Data.dll
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Data\bin\Debug\netcoreapp2.0\GoalKeeper.Data.pdb
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Data\obj\Debug\netcoreapp2.0\GoalKeeper.Data.csprojResolveAssemblyReference.cache
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Data\obj\Debug\netcoreapp2.0\GoalKeeper.Data.csproj.CoreCompileInputs.cache
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Data\obj\Debug\netcoreapp2.0\GoalKeeper.Data.AssemblyInfoInputs.cache
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Data\obj\Debug\netcoreapp2.0\GoalKeeper.Data.AssemblyInfo.cs
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Data\obj\Debug\netcoreapp2.0\GoalKeeper.Data.dll
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Data\obj\Debug\netcoreapp2.0\GoalKeeper.Data.pdb

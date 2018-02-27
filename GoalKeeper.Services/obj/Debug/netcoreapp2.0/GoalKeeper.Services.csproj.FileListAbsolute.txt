@@ -1,0 +1,9 @@
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Services\bin\Debug\netcoreapp2.0\GoalKeeper.Services.deps.json
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Services\bin\Debug\netcoreapp2.0\GoalKeeper.Services.dll
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Services\bin\Debug\netcoreapp2.0\GoalKeeper.Services.pdb
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Services\obj\Debug\netcoreapp2.0\GoalKeeper.Services.csprojResolveAssemblyReference.cache
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Services\obj\Debug\netcoreapp2.0\GoalKeeper.Services.csproj.CoreCompileInputs.cache
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Services\obj\Debug\netcoreapp2.0\GoalKeeper.Services.AssemblyInfoInputs.cache
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Services\obj\Debug\netcoreapp2.0\GoalKeeper.Services.AssemblyInfo.cs
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Services\obj\Debug\netcoreapp2.0\GoalKeeper.Services.dll
+D:\Programming and Design\Programming\GitHub\GoalKeeper\GoalKeeper.Services\obj\Debug\netcoreapp2.0\GoalKeeper.Services.pdb

@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalKeeper", "GoalKeeper\GoalKeeper.csproj", "{BCD5A56A-9351-475E-960C-19C4CE914949}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoalKeeper.Web", "GoalKeeper\GoalKeeper.Web.csproj", "{BCD5A56A-9351-475E-960C-19C4CE914949}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoalKeeper.Data", "GoalKeeper.Data\GoalKeeper.Data.csproj", "{E3D0EC45-3833-46EF-831F-F38D5DC17140}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoalKeeper.Models", "GoalKeeper.Models\GoalKeeper.Models.csproj", "{AE7F0CE1-411D-493B-955D-A0D8A9517C7F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoalKeeper.Services", "GoalKeeper.Services\GoalKeeper.Services.csproj", "{90D3C6E6-F509-49F3-9F6D-203771AD3D47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{BCD5A56A-9351-475E-960C-19C4CE914949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCD5A56A-9351-475E-960C-19C4CE914949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCD5A56A-9351-475E-960C-19C4CE914949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D0EC45-3833-46EF-831F-F38D5DC17140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D0EC45-3833-46EF-831F-F38D5DC17140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D0EC45-3833-46EF-831F-F38D5DC17140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D0EC45-3833-46EF-831F-F38D5DC17140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7F0CE1-411D-493B-955D-A0D8A9517C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7F0CE1-411D-493B-955D-A0D8A9517C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7F0CE1-411D-493B-955D-A0D8A9517C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7F0CE1-411D-493B-955D-A0D8A9517C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D3C6E6-F509-49F3-9F6D-203771AD3D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D3C6E6-F509-49F3-9F6D-203771AD3D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D3C6E6-F509-49F3-9F6D-203771AD3D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D3C6E6-F509-49F3-9F6D-203771AD3D47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
